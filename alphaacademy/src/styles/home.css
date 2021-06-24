@@ -1,0 +1,29 @@
+.welcome-message{
+    font-size: 20px;
+    text-align: center;
+}
+
+.logoDiv {
+    width: 70%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    width: 50%;
+    opacity: 0.4;
+}
+
+
+.alpha {
+    color: rgb(226, 47, 47);
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#tag-line{
+    text-align: center;
+
+}

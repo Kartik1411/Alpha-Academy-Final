@@ -1,0 +1,40 @@
+.right{
+    width: 15%;
+    float: right;
+    background-color: #303960;
+    color: white;
+    height: 88vh;
+}
+
+/* ul li{
+    list-style: none;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.links{
+    text-decoration: none;
+    color: white;
+    display: inline;
+}
+
+/* .links:hover{
+    cursor: pointer;
+    color: black;
+    transition: 0.8s;
+    text-decoration: none;
+    background-color: #ffffff;
+    padding: 10px;
+} */
+
+#btn{
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 25%;
+    padding: 10px;
+    font-weight: 500;
+}
+
+#btn:hover{
+    cursor: pointer;
+}

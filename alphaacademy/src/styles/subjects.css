@@ -1,0 +1,33 @@
+#subject-name{
+    text-align: center;
+}
+
+#note{
+    margin-top: 10%;
+    text-align: center;
+    color: brown;
+}
+
+.document-submit{
+    margin-top: 10%;
+    text-align: center;
+    align-items: center;
+}
+
+#btn1{
+    /* background-color: rgba(30, 184, 211, 0.795); */
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px 10px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+#btn1:hover{
+    cursor: pointer;
+}
+
+/* #img{
+    height: 300px;
+    width: 300px;
+} */

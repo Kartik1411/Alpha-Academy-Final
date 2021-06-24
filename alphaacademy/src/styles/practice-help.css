@@ -1,0 +1,18 @@
+#practice-help{
+    text-align: center;
+}
+
+#help-div{
+    padding: 20px 20px 20px 20px;
+}
+
+#help{
+    text-align: justify;
+    padding: 20px;
+    margin: 20px;
+}
+
+.message{
+    text-align: center;
+    color: brown;
+}
